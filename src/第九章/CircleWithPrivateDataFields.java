@@ -25,6 +25,10 @@ public class CircleWithPrivateDataFields {
 	public void setRadius(double newRadius) {
 		radius=(newRadius>=0)?newRadius:0;
 	}
+	/**Return numberOfObjects*/
+	public static int getNumberOfObjects() {
+		return numberOfObjects;
+	}
 	
 	/**Return the area of this circle*/
 	public double getArea() {
