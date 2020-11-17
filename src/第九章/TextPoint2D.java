@@ -1,4 +1,4 @@
-package ตฺพลีย;
+/**package ตฺพลีย;
 import java.util.Scanner;
 import javafx.geometry.Point2D;
 public class TextPoint2D {
@@ -24,3 +24,4 @@ public class TextPoint2D {
 	}
 
 }
+*/
